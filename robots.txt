@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruseviden.github.io/sitemap
+Sitemap: https://ruseviden.github.io/app/sitemap
+Sitemap: https://ruseviden.github.io/assets/sitemap
+Sitemap: https://ruseviden.github.io/css/sitemap
+Sitemap: https://ruseviden.github.io/includes/sitemap
+Sitemap: https://ruseviden.github.io/item/sitemap
+Sitemap: https://ruseviden.github.io/src/sitemap
